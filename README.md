@@ -32,7 +32,12 @@
   <a href="https://frappeframework.com/" target="_blank" rel="noreferrer"> <img src="https://frappeframework.com/files/frappe-framework-logo.svg" alt="frappe" width="40" height="40"/> </a>
   <a href="https://erpnext.com/" target="_blank" rel="noreferrer"> <img src="https://erpnext.com/files/erpnext-logo.svg" alt="erpnext" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</a>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 48 48" fill="black">
+  <path d="M24 4C12.972 4 4 12.972 4 24s8.972 20 20 20 20-8.972 20-20S35.028 4 24 4zm0 3c9.374 0 17 7.626 17 17 0 5.852-2.972 11.02-7.486 14.08L19.742 17.66c-.367-.547-1.055-.786-1.682-.596-.63.194-1.06.777-1.06 1.436v12.5c0 .828.672 1.5 1.5 1.5s1.5-.672 1.5-1.5v-8.094L30.877 39.533C28.771 40.468 26.448 41 24 41c-9.374 0-17-7.626-17-17S14.626 7 24 7zm5.5 8c-.828 0-1.5.672-1.5 1.5v8.486L31 29.289V16.5c0-.828-.672-1.5-1.5-1.5z"/>
+</svg>
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="aspnet" width="40" height="40"/> </a>
 </p>
 
