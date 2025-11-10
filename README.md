@@ -4,7 +4,7 @@
 
 - 📄 Education: **B.E. in Computer Engineering**
 
-- 🌱 I’m currently learning: **ERPNext**
+- 🌱 I’m currently learning: **Wordpress**
 
 - 📫 How to reach me: **hadibaydoun17@gmail.com**
 
