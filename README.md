@@ -50,5 +50,3 @@
   <!-- ERPNext (no official devicon, using simple badge-style icon alternative) -->
   <img src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/favicon.png" width="40" />
 </p>
-
----
