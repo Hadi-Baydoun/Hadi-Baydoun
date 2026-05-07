@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadi Baydoun</h1>
-<h3 align="center">Computer Engineering | Full-Stack Developer</h3>
+<h3 align="center">Computer Engineer | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding Animation" />
